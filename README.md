@@ -1,5 +1,5 @@
 # pdfcrop2
-Automatically exported from code.google.com/p/pdfcrop2 on 2015-06-24.
+Automatically exported from [code.google.com/p/pdfcrop2](https://code.google.com/p/pdfcrop2/) on 2015-06-24.
 
 ## Notes
 
